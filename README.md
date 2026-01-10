@@ -1,3 +1,4 @@
+Swagger:http://localhost:8080/swagger-ui/index.html#/
 1.Reports
 By Category: GET http://localhost:8080/api/expenses/reports/category
 By Payment Mode: GET http://localhost:8080/api/expenses/reports/payment-mode
